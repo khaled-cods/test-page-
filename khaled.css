@@ -1,0 +1,21 @@
+body {
+      background-color: #008b8b;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .t {
+      border: 3px solid  aqua;
+      padding: 20px 40px;
+      border-radius: 15px;
+      font-size: 2rem;
+      color: green;
+      box-shadow: 0 0 10px rgba(0, 128, 0, 0.2);
+    }
+    .t:hover {
+font-size: 100px;
+    }

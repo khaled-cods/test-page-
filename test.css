@@ -1,0 +1,139 @@
+body {
+    background-color: #e1d6d4;
+}
+* {
+    margin: 0;
+}
+
+
+
+
+.box {
+  display: flex;
+  justify-content: flex-end;
+  align-items: top;
+  border: 10px solid black;
+  padding: 0;
+  position: relative;
+  background-color: black;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
+.avatar {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  position: absolute;
+  right: 50%;
+  top: 50%;
+  bottom: 50%;
+  left: 50%;
+  transform: translateY(-50%);
+}
+
+.title {
+  margin: 0 auto;
+  font-size: 40px;
+}
+.box img {
+border-radius: 900px;
+width: 100px;
+}
+div h1 {
+    color: aqua;
+    padding: 25PX ;
+    right: 0;
+}
+.k {
+    text-align: center;
+    margin: 10px;
+    font-size:20px;
+}
+hr{
+ width: 100%;  
+ font-weight: 900; 
+}
+.b img{margin: 30px;
+    border-radius: 10px;
+height: 300px;
+width: 300px;
+}
+.w figcaption {
+text-align: center;
+  font-size: 15px;
+  padding: 0 5px 0 10px;
+  color: #333;
+position: absolute;
+top: 340px;
+left: 250px;
+border: solid 1px black;
+ border-radius: 5px;
+ padding: 3px 3px 2px 3px ;
+ margin: 0;
+ background-color: aqua;
+}
+.w img {
+    width: 320px;
+}
+.w {
+    background-color: #fcfcfc;
+    position: absolute;
+    margin: 15px;
+
+}
+.w input {
+    background-color: aqua;
+    border-radius: 5px;
+    position: absolute;
+    top: 340px;
+    left: 27px;
+
+}
+
+
+
+
+    .g {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 30px; 
+      justify-content: flex-start;
+      margin: 10px;
+    }
+
+    .b {
+      
+      padding: 170px;
+      border-radius: 10px;
+      width: 300px; 
+      box-sizing: border-box;
+      text-align: center;
+      margin: 15px;
+    }
+
+    .b1 img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 8px;
+      width: 400px;
+        transition: transform 0.3s ease;
+
+    }
+    
+    .b:hover {
+  transform: translateY(-20px);
+
+}
+.Q {
+  padding: 2PX;
+  margin: 0 0 0PX 90PX;
+}
+
+.www {
+  margin: 0 0 50px;
+  
+}
+
+
+
