@@ -1,0 +1,55 @@
+body{
+    background-color: darkblue;
+}
+.numbers{
+    border: solid 4px black;
+    text-align: center;
+    padding: 50px;
+    margin: 300px;
+    border-radius: 10px;
+    background-color: #000080;
+}
+.numbers button {
+    border-radius: 7px;
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    padding: 30px;
+}
+.kk{
+    border: 10px;
+}
+.ll h1{
+    border: double 4px aqua;
+    text-align: center;
+    padding: 40px;
+    color: aqua;
+    border-radius: 30px;
+    margin: 50px;
+}
+.numbers button:hover{
+    color: black; 
+    background-color: green;
+}
+.numbers{
+    padding: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+#screen {
+    width: 270px;
+    height: 70px;
+    background: black;
+    color: lime;
+    font-size: 32px;
+    text-align: right;
+    padding: 5px;
+    margin: auto;
+    border-radius: 8px;
+    border: 5px double #555;
+    box-sizing: border-box;
+    padding-bottom: 15px;
+}
+.mm{
+    width: 20px;
+}
